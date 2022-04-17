@@ -1,7 +1,7 @@
 # Surfs Up - Waves and Ice Cream
 
 ## Overview of the Analysis
-We will conduct analysis on a weather dataset from Oahu, Haiwaii to determine if deciding to open a new business venture would be a viable option.  This is an important factor one must consider when propsoing a new business idea, especially for a venture involved a shop selling surf boards and ice cream to locals and tourists in Oahu.  Since sunny weather is required for the highest outcome of visitors to visit the shop, considering this analysis is crucial on the decision.
+We will conduct analysis on a weather dataset from Oahu, Haiwaii to determine if deciding to open a new business venture would be a viable option.  This is an important factor one must consider when proposing a new business idea, especially for a venture involved a shop selling surf boards and ice cream to locals and tourists in Oahu.  Since sunny weather is required for the highest outcome of visitors to visit the shop, considering this analysis is crucial on the decision.
 
 We used the haiwaii.sqlite as our data source with Python languaging, Pandas library, Jupyter Notebook.  We also used the applications SQLite and SQLAlchemy to deliver results.
 
